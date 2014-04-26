@@ -1,0 +1,29 @@
+{
+    "name": "angular-cordova-battery-status",
+    "version": "1.0.0",
+    "description": "Bring Apache Cordova Battery Status API to AngularJS Apps...",
+    "main": "src/cordovaBatteryStatusModule.js",
+    "scripts": {
+        "bower": "bower install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xelita/angular-cordova-battery-status.git"
+    },
+    "keywords": [
+        "angular",
+        "cordova",
+        "battery",
+        "plugin"
+    ],
+    "author": "xelita <admin@xelita.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xelita/angular-cordova-battery-status/issues"
+    },
+    "homepage": "https://github.com/xelita/angular-cordova-battery-status",
+    "dependecies": {},
+    "devDependencies": {
+        "bower": "~1.2.8"
+    }
+}
